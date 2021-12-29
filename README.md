@@ -5,7 +5,6 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school
 
 ## General Advice
 
-Ph.D. advice from:
 1. [James Arvanitakis](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
 2. [Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
 3. [Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
