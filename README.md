@@ -5,12 +5,12 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## General Advice
 
-1. [James Arvanitakis](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
+1. [James Arvanitakis: "How to survive a PhD"](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
 2. [Nick Feamster: "Managing your advisor"](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce)
-3. [Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
-4. [Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
-5. [Maithra Raghu](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
-6. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
+3. [Austin Z. Henley: "Lessons from my PhD"](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+4. [Andrej Karpathy: "A Survival Guide to a PhD"](http://karpathy.github.io/2016/09/07/phd/)
+5. [Maithra Raghu: "Reflections on my (Machine Learning) PhD Journey"](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
+6. [Sebastian Ruder: "10 Tips for Research and a PhD"](https://ruder.io/10-tips-for-research-and-a-phd/)
 7. [Aijaz A. Shaikh: "5 secrets to surviving (and thriving in) a PhD program"](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
 8. [Jennifer Snodgrass: "7 Hard Truths and a Few Lies"](https://www.insidehighered.com/advice/2021/11/18/truths-about-academic-career-people-often-dont-share-opinion)
 9. [Stephen Sterns: "Modest Advice"](https://stearnslab.yale.edu/modest-advice)
