@@ -19,6 +19,8 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school
 
 1. [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)
 2. [Mor Naaman](https://s.tech.cornell.edu/phd-syllabus/)
+3. [Jon Froehlich](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
+4. [Collection of Lab Handbooks](https://github.com/samuelmehr/labhandbooks)
 
 ## Getting help
 
