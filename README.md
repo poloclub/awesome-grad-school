@@ -12,8 +12,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 5. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
 6. [Aijaz A. Shaikh](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
 7. [Jennifer Snodgrass](https://www.insidehighered.com/advice/2021/11/18/truths-about-academic-career-people-often-dont-share-opinion)
-8. [Terence Tao](https://terrytao.wordpress.com/career-advice/)
-9. [Lucy A. Taylor](https://www.nature.com/articles/d41586-018-07332-x)
+8. [Stephen Sterns: "Modest Advice"](https://stearnslab.yale.edu/modest-advice)
+9. [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
+10. [Lucy A. Taylor](https://www.nature.com/articles/d41586-018-07332-x)
 
 ## Ph.D. Syllabi
 
