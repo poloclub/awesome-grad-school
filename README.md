@@ -11,6 +11,7 @@ Ph.D. advice from:
 3. [Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
 4. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
 5. [Aijaz A. Shaikh](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
+6. [Lucy A. Taylor](https://www.nature.com/articles/d41586-018-07332-x)
 
 ## Ph.D. Syllabi
 
