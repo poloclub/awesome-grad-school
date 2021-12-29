@@ -17,3 +17,8 @@ Ph.D. advice from:
 
 1. [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)
 2. [Mor Naaman](https://s.tech.cornell.edu/phd-syllabus/)
+
+## Getting help
+
+1. [Talk to your ombudsperson, if you have one](https://ombuds.oregonstate.edu/what-ombuds)
+2. [Ask the internet](https://academia.stackexchange.com/)
