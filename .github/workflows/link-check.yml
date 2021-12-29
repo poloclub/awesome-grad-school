@@ -1,0 +1,2 @@
+- name: broken-link-check
+  uses: celinekurpershoek/link-checker@v1.0.0
