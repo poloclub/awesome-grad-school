@@ -1,9 +1,5 @@
 # Awesome Grad School <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> [![LinkCheck Action Status](https://github.com/poloclub/awesome-grad-school/workflows/CI/badge.svg)](https://github.com/poloclub/awesome-grad-school/actions)
 
-
-
-
-
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
 ## General Advice
