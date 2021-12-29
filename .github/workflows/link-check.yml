@@ -1,20 +1,10 @@
-name: Broken link check
-on: [push]
+name: Check Markdown links
+
+on: push
 
 jobs:
-  broken_link_checker_job:
+  markdown-link-check:
     runs-on: ubuntu-latest
-    name: Check for broken links
     steps:
-    - name: Check for broken links
-      id: link-report
-      uses: celinekurpershoek/link-checker@v1.0.1
-      with:
-        # Required:
-        url: 'https://raw.githubusercontent.com/poloclub/awesome-grad-school/main/README.md'
-        # optional:
-        honorRobotExclusions: false
-        ignorePatterns: 'github,google'
-        recursiveLinks: false # Check all URLs on all reachable pages (could take a while)
-    - name: Get the result
-      run: echo "${{steps.link-report.outputs.result}}"
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
