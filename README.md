@@ -6,15 +6,16 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## General Advice
 
 1. [James Arvanitakis](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
-2. [Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
-3. [Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
-4. [Maithra Raghu](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
-5. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
-6. [Aijaz A. Shaikh](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
-7. [Jennifer Snodgrass](https://www.insidehighered.com/advice/2021/11/18/truths-about-academic-career-people-often-dont-share-opinion)
-8. [Stephen Sterns: "Modest Advice"](https://stearnslab.yale.edu/modest-advice)
-9. [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
-10. [Lucy A. Taylor](https://www.nature.com/articles/d41586-018-07332-x)
+2. [Nick Feamster: "Managing your advisor"](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce)
+3. [Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+4. [Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
+5. [Maithra Raghu](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
+6. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
+7. [Aijaz A. Shaikh](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
+8. [Jennifer Snodgrass](https://www.insidehighered.com/advice/2021/11/18/truths-about-academic-career-people-often-dont-share-opinion)
+9. [Stephen Sterns: "Modest Advice"](https://stearnslab.yale.edu/modest-advice)
+10. [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
+11. [Lucy A. Taylor](https://www.nature.com/articles/d41586-018-07332-x)
 
 ## Ph.D. Syllabi
 
