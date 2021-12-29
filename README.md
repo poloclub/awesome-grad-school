@@ -23,3 +23,4 @@ Ph.D. advice from:
 1. [Talk to your ombudsperson](https://ombuds.oregonstate.edu/what-ombuds)
 2. [Ask the internet](https://academia.stackexchange.com/)
 3. [Manage your mental health](https://www.phdstudies.com/article/managing-your-mental-health-as-a-phd-student/)
+4. [General advice](https://inomics.com/advice/10-biggest-struggles-of-phd-students-610514)
