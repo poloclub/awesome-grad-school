@@ -1,4 +1,4 @@
-name: LinkCheck
+name: LinkChecker
 
 on: push
 
