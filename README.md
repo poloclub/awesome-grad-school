@@ -24,7 +24,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 3. [Jon Froehlich](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
 4. [Collection of Lab Handbooks](https://github.com/samuelmehr/labhandbooks)
 
-## Getting help
+## Getting Help
 
 1. [Talk to your ombudsperson](https://ombuds.oregonstate.edu/what-ombuds)
 2. [Ask the internet](https://academia.stackexchange.com/)
