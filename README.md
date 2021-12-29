@@ -1,6 +1,5 @@
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+# Awesome Grad School <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-# Awesome Grad School
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
 ## General Advice
