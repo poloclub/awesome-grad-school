@@ -9,6 +9,7 @@ Ph.D. advice from:
 1. [Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
 2. [Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
 3. [Aijaz A. Shaikh](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
+4. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
 
 ## Ph.D. Syllabi
 
