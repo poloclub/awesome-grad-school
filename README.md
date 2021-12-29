@@ -11,11 +11,11 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 4. [Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
 5. [Maithra Raghu](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
 6. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
-7. [Aijaz A. Shaikh](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
-8. [Jennifer Snodgrass](https://www.insidehighered.com/advice/2021/11/18/truths-about-academic-career-people-often-dont-share-opinion)
+7. [Aijaz A. Shaikh: "5 secrets to surviving (and thriving in) a PhD program"](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
+8. [Jennifer Snodgrass: "7 Hard Truths and a Few Lies"](https://www.insidehighered.com/advice/2021/11/18/truths-about-academic-career-people-often-dont-share-opinion)
 9. [Stephen Sterns: "Modest Advice"](https://stearnslab.yale.edu/modest-advice)
 10. [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
-11. [Lucy A. Taylor](https://www.nature.com/articles/d41586-018-07332-x)
+11. [Lucy A. Taylor: "Twenty things I wish I’d known when I started my PhD"](https://www.nature.com/articles/d41586-018-07332-x)
 
 ## Ph.D. Syllabi
 
