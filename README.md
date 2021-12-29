@@ -9,9 +9,12 @@ Ph.D. advice from:
 1. [James Arvanitakis](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
 2. [Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
 3. [Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
-4. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
-5. [Aijaz A. Shaikh](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
-6. [Lucy A. Taylor](https://www.nature.com/articles/d41586-018-07332-x)
+4. [Maithra Raghu](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
+5. [Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
+6. [Aijaz A. Shaikh](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
+7. [Jennifer Snodgrass](https://www.insidehighered.com/advice/2021/11/18/truths-about-academic-career-people-often-dont-share-opinion)
+8. [Terence Tao](https://terrytao.wordpress.com/career-advice/)
+9. [Lucy A. Taylor](https://www.nature.com/articles/d41586-018-07332-x)
 
 ## Ph.D. Syllabi
 
