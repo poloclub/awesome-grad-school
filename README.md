@@ -2,6 +2,9 @@
 
 [![Build Status](https://github.com/poloclub/awesome-grad-school/actions/workflows/link-check.yaml/badge.svg)](https://github.com/poloclub/awesome-grad-school/actions/workflows/link-check.yaml/badge.svg)
 
+[![YourActionName Actions Status](https://github.com/poloclub/awesome-grad-school/workflows/CI/badge.svg)](https://github.com/poloclub/awesome-grad-school/actions)
+
+
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
 ## General Advice
