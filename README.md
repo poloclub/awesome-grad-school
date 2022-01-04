@@ -30,7 +30,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Manage your mental health](https://www.phdstudies.com/article/managing-your-mental-health-as-a-phd-student/)
 * [General advice](https://inomics.com/advice/10-biggest-struggles-of-phd-students-610514)
 
-## Academic Blogs
+## Academics Blogging about Academia
 
 * [Matt Might](https://matt.might.net/#blog)
 * [John Regehr](https://blog.regehr.org/)
