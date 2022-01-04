@@ -33,3 +33,4 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## Academic Blogs
 
 * [Matt Might](https://matt.might.net/#blog)
+* [John Regehr](https://blog.regehr.org/)
