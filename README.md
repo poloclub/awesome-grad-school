@@ -4,9 +4,12 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## General Advice
 * [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
+  * Bad Reasons: You're good at school; You don't know what else to do; You want to make money; You want prestige.
+  * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career. 
 * [James Arvanitakis: "How to survive a PhD"](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
 * [Nick Feamster: "Managing your advisor"](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce)
 * [Austin Z. Henley: "Lessons from my PhD"](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+  * Lead or be led; Topic sentences; Get excited; Unmotivated details; Slides versus speaker; Managers as input/output machines; Daily progress tracking
 * [Andrej Karpathy: "A Survival Guide to a PhD"](http://karpathy.github.io/2016/09/07/phd/)
 * [Maithra Raghu: "Reflections on my (Machine Learning) PhD Journey"](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
 * [Sebastian Ruder: "10 Tips for Research and a PhD"](https://ruder.io/10-tips-for-research-and-a-phd/)
