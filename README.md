@@ -3,7 +3,7 @@
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
 ## General Advice
-
+* [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
 * [James Arvanitakis: "How to survive a PhD"](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
 * [Nick Feamster: "Managing your advisor"](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce)
 * [Austin Z. Henley: "Lessons from my PhD"](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
