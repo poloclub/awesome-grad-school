@@ -19,6 +19,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
 * [Lucy A. Taylor: "Twenty things I wish I’d known when I started my PhD"](https://www.nature.com/articles/d41586-018-07332-x)
 
+## Internships (as a PhD student)
+* [Polo Chau: 7 Benefits of Internship](https://youtu.be/sapIzA7T9_Y)
+  * "7 Ps of internships": People, Practice, Paper, Patent, Product, Publicity, Payment 
+
 ## Ph.D. Syllabi
 
 * [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)
