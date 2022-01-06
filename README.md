@@ -23,6 +23,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Polo Chau: 7 Benefits of Internship](https://youtu.be/sapIzA7T9_Y)
   * "7 Ps of internships": People, Practice, Paper, Patent, Product, Publicity, Payment 
 * [Anne Meyer-Miner: Engaging Employers Early in Grad Student Training](https://www.insidehighered.com/advice/2021/11/29/why-engage-employers-early-grad-student-training-opinion)
+  * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 
 ## Ph.D. Syllabi
 
