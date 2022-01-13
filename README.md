@@ -20,13 +20,29 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Lucy A. Taylor: "Twenty things I wish I’d known when I started my PhD"](https://www.nature.com/articles/d41586-018-07332-x)
 
 ## Internships (as a PhD student)
+
 * [Polo Chau: 7 Benefits of Internship](https://youtu.be/sapIzA7T9_Y)
   * "7 Ps of internships": People, Practice, Paper, Patent, Product, Publicity, Payment 
 * [Anne Meyer-Miner: Engaging Employers Early in Grad Student Training](https://www.insidehighered.com/advice/2021/11/29/why-engage-employers-early-grad-student-training-opinion)
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 
 ## Paper Writing
+
 * [Prof. Diyi Yang: Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
+* [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
+* [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
+* [Writing a Scientific Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7523&rep=rep1&type=pdf)
+* [The Serial Mentor](https://serialmentor.com/virtualbooks/)
+* [Perfecting Your Scientific Writing: Tips & Tricks](https://elitemanuscripts.com/2020/04/17/perfecting-your-scientific-writing-tips-tricks/)
+* [Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
+* [Knuth Mathematical Writing Guide](https://tex.loria.fr/typographie/mathwriting.pdf)
+* [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
+* [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+* [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+* [Adam Wierman: Advising](http://users.cms.caltech.edu/~adamw/advising.html)
+* [How to Write a Good Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf)
+* [Ten simple Rules for Responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036#sec001)
+* [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 
 ## Ph.D. Syllabi
 
