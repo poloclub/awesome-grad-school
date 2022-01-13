@@ -25,6 +25,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Anne Meyer-Miner: Engaging Employers Early in Grad Student Training](https://www.insidehighered.com/advice/2021/11/29/why-engage-employers-early-grad-student-training-opinion)
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 
+## Paper Writing
+* [Prof. Diyi Yang: Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
+
 ## Ph.D. Syllabi
 
 * [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)
