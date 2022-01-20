@@ -31,7 +31,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Paper Writing
 
-* [Prof. Diyi Yang](https://faculty.cc.gatech.edu/~dyang888/): [Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
+* [Prof. Christos Faloutsos](https://www.cs.cmu.edu/~christos/), CMU: [Lessons from 1K rejected research papers](http://www.cs.cmu.edu/~christos/TMP/faloutsos_1KR.pptx)
+  *  How to create crown jewel figures (fig 1), pick paper title, tool name, write abstract (start with rhetorical question), think like reviewers (relevance, novelty, technical quality, presentation)
+* [Prof. Diyi Yang](https://faculty.cc.gatech.edu/~dyang888/), Georgia Tech: [Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
 * [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
 * [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
 * [Writing a Scientific Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7523&rep=rep1&type=pdf)
