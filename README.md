@@ -19,16 +19,19 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
 * [Lucy A. Taylor: "Twenty things I wish I’d known when I started my PhD"](https://www.nature.com/articles/d41586-018-07332-x)
 
+## Doing Research as Undergraduate Students
+* [Omar Shaikh](https://oshaikh.com): [Opinions on Undergrad Computer Science Research](https://oshaikh.com/blog/undergrad-research)
+
 ## Internships (as a PhD student)
 
-* [Polo Chau: 7 Benefits of Internship](https://youtu.be/sapIzA7T9_Y)
+* [Polo Chau](https://faculty.cc.gatech.edu/~dchau/): [7 Benefits of Internship](https://youtu.be/sapIzA7T9_Y)
   * "7 Ps of internships": People, Practice, Paper, Patent, Product, Publicity, Payment 
 * [Anne Meyer-Miner: Engaging Employers Early in Grad Student Training](https://www.insidehighered.com/advice/2021/11/29/why-engage-employers-early-grad-student-training-opinion)
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 
 ## Paper Writing
 
-* [Prof. Diyi Yang: Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
+* [Prof. Diyi Yang](https://faculty.cc.gatech.edu/~dyang888/): [Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
 * [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
 * [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
 * [Writing a Scientific Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7523&rep=rep1&type=pdf)
