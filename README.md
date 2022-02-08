@@ -51,6 +51,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Ten simple Rules for Responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036#sec001)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 
+## Giving Talks
+
+* [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
+
 ## Ph.D. Syllabi
 
 * [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)
