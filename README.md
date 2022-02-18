@@ -62,6 +62,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Jon Froehlich](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
 * [Collection of Lab Handbooks](https://github.com/samuelmehr/labhandbooks)
 
+## Handling Paper Rejections
+
+* [Aditya Parameswaran: "Coping with Rejection"](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
+
 ## Getting Help
 
 * [Talk to your ombudsperson](https://ombuds.oregonstate.edu/what-ombuds)
