@@ -68,8 +68,8 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Paper Accepted, Then What?
 
-* [Casey Fiesler: what ACM copyright model should I choose?](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
-* [Jay Wang: arXiv submission instruction](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
+* [Casey Fiesler: what ACM copyright model should I choose.?](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
+* [Jay Wang: arXiv submission instruction](https://gist.github.com/xiaohk/ed587934d4fd5c3e4bc501020c9c8bda)
 
 ## Getting Help
 
