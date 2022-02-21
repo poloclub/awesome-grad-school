@@ -66,6 +66,11 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Aditya Parameswaran: "Coping with Rejection"](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
 
+## Paper Accepted, Then What?
+
+* [Casey Fiesler: what ACM copyright model should I choose?](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
+* [Jay Wang: arXiv submission instruction](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
+
 ## Getting Help
 
 * [Talk to your ombudsperson](https://ombuds.oregonstate.edu/what-ombuds)
