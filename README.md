@@ -51,6 +51,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Ten simple Rules for Responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036#sec001)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 
+## Research Novelty
+* [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
+  *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
+
 ## Giving Talks
 
 * [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
@@ -82,7 +86,3 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Matt Might](https://matt.might.net/#blog)
 * [John Regehr](https://blog.regehr.org/)
-
-## Research Novelty
-* [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
-  *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
