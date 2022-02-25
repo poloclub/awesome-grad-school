@@ -82,3 +82,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Matt Might](https://matt.might.net/#blog)
 * [John Regehr](https://blog.regehr.org/)
+
+## Research Novelty
+* [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
+  *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
