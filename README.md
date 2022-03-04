@@ -72,11 +72,12 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Paper Accepted, Then What?
 
-* [Casey Fiesler: what ACM copyright model should I choose.?](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
+* [Casey Fiesler: what ACM copyright model should I choose?](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
 * [Jay Wang: arXiv submission instruction](https://gist.github.com/xiaohk/ed587934d4fd5c3e4bc501020c9c8bda)
 
 ## Other Grad School Advice Pages and Sites Like Ours
 * [Prof. Jason Hong](https://www.cs.cmu.edu/~jasonh/), CMU: [Grad School Advice](http://www.cs.cmu.edu/~jasonh/advice.html)
+* [The Tao of PhD (UW course)](https://courses.cs.washington.edu/courses/cse590x/22wi/resources/)
 
 ## Getting Help
 
