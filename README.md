@@ -65,6 +65,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Mor Naaman](https://s.tech.cornell.edu/phd-syllabus/)
 * [Jon Froehlich](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
 * [Collection of Lab Handbooks](https://github.com/samuelmehr/labhandbooks)
+* [Graduating advising philosophy, David Darmofal](http://darmofal.mit.edu/graduate-advising-philosophy)
 
 ## Handling Paper Rejections
 
