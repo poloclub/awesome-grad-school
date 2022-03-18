@@ -30,7 +30,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 
 ## Paper Writing
-
+* [Prof. Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Planning paper writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
 * [Prof. Christos Faloutsos](https://www.cs.cmu.edu/~christos/), CMU: [Lessons from 1K rejected research papers](http://www.cs.cmu.edu/~christos/TMP/faloutsos_1KR.pptx)
   *  How to create crown jewel figures (fig 1), pick paper title, tool name, write abstract (start with rhetorical question), think like reviewers (relevance, novelty, technical quality, presentation)
 * [Maxwell Forbes (UWash): Making a Figure 1](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)
