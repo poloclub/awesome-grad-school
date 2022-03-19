@@ -56,9 +56,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Casey Fiesler: what ACM copyright model should I choose?](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
 * [Jay Wang: arXiv submission instruction](https://gist.github.com/xiaohk/ed587934d4fd5c3e4bc501020c9c8bda)
 
-## Other Grad School Advice Pages and Sites Like Ours
-* [Prof. Jason Hong](https://www.cs.cmu.edu/~jasonh/), CMU: [Grad School Advice](http://www.cs.cmu.edu/~jasonh/advice.html)
-* [The Tao of PhD (UW course)](https://courses.cs.washington.edu/courses/cse590x/22wi/resources/)
+## Handling Paper Rejections
+
+* [Aditya Parameswaran: "Coping with Rejection"](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
+
 ## Research Novelty
 * [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
   *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
@@ -82,11 +83,6 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Collection of Lab Handbooks](https://github.com/samuelmehr/labhandbooks)
 * [Graduating advising philosophy, David Darmofal](http://darmofal.mit.edu/graduate-advising-philosophy)
 
-## Handling Paper Rejections
-
-* [Aditya Parameswaran: "Coping with Rejection"](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
-
-
 
 ## Getting Help
 
@@ -99,3 +95,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Matt Might](https://matt.might.net/#blog)
 * [John Regehr](https://blog.regehr.org/)
+
+## Other Grad School Advice Pages and Sites Like Ours
+* [Prof. Jason Hong](https://www.cs.cmu.edu/~jasonh/), CMU: [Grad School Advice](http://www.cs.cmu.edu/~jasonh/advice.html)
+* [The Tao of PhD (UW course)](https://courses.cs.washington.edu/courses/cse590x/22wi/resources/)
