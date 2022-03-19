@@ -69,7 +69,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [7 reasons why every PhD student should attend academic conferences; Alessandra Bassey](https://authorservices.taylorandfrancis.com/phd-conferences/)
 * [The Importance of Academic Conferences for Graduate Students; Steve Horwitz](https://theihs.org/blog/the-importance-of-academic-conferences-for-graduate-students/)
 * [The Great Benefits of Attending Academic Conferences; Miguel Otero-Iglesias](https://www.uaces.org/resources/articles/great-benefits-attending-academic-conferences)
-
+* [Navigating your first academic conference; Joshua C. Palmer](https://www.apa.org/science/about/psa/2016/10/academic-conference)
 
 ## Giving Talks
 
