@@ -55,6 +55,13 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
   *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
 
+## Conferences
+
+* [7 reasons why every PhD student should attend academic conferences; Alessandra Bassey](https://authorservices.taylorandfrancis.com/phd-conferences/)
+* [The Importance of Academic Conferences for Graduate Students; Steve Horwitz](https://theihs.org/blog/the-importance-of-academic-conferences-for-graduate-students/)
+* [The Great Benefits of Attending Academic Conferences; Miguel Otero-Iglesias](https://www.uaces.org/resources/articles/great-benefits-attending-academic-conferences)
+
+
 ## Giving Talks
 
 * [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
