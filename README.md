@@ -18,6 +18,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Stephen Sterns: "Modest Advice"](https://stearnslab.yale.edu/modest-advice)
 * [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
 * [Lucy A. Taylor: "Twenty things I wish I’d known when I started my PhD"](https://www.nature.com/articles/d41586-018-07332-x)
+* [David A. Patterson: "Your Students Are Your Legacy"](https://cacm.acm.org/magazines/2009/3/21780-your-students-are-your-legacy/fulltext)
 
 ## Doing Research as Undergraduate Students
 * [Omar Shaikh](https://oshaikh.com): [Opinions on Undergrad Computer Science Research](https://oshaikh.com/blog/undergrad-research)
