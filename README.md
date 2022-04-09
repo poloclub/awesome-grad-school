@@ -22,6 +22,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Doing Research as Undergraduate Students
 * [Omar Shaikh](https://oshaikh.com): [Opinions on Undergrad Computer Science Research](https://oshaikh.com/blog/undergrad-research)
+* [Gatech UG Presentation Resources](https://www.undergradresearch.gatech.edu/presentation-tips)
 
 ## Internships (as a PhD student)
 
