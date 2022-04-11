@@ -106,3 +106,4 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## Other Grad School Advice Pages and Sites Like Ours
 * [Prof. Jason Hong](https://www.cs.cmu.edu/~jasonh/), CMU: [Grad School Advice](http://www.cs.cmu.edu/~jasonh/advice.html)
 * [The Tao of PhD (UW course)](https://courses.cs.washington.edu/courses/cse590x/22wi/resources/)
+* [Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice)
