@@ -82,6 +82,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Why invited talks are important](https://academia.stackexchange.com/questions/148672/what-s-the-point-of-invited-talks)
 * [Participating in graduate seminar discussions](https://www.evalefkowitz.com/blog/participating-in-graduate-seminar-discussions)
 
+## Fellowship
+* [Five tips for a successful Facebook Fellowship application from the people who review them](https://research.facebook.com/blog/2020/9/five-tips-for-a-successful-facebook-fellowship-application-from-the-people-who-review-them/)
+
 ## Ph.D. Syllabi
 
 * [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)
