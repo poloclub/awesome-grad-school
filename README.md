@@ -4,6 +4,11 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## General Advice
 * [Scott Freitas: Optimizing Your Machine Learning PhD Applications for Success](https://www.scottfreitas.com/blog/2022-phd-application-process)
+  * Is an ML PhD Right for Me?
+  * Finding the Ideal Advisor
+  * Understanding the Application Process
+  * Aligning your Post Graduation Objectives
+
 * [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
   * Bad Reasons: You're good at school; You don't know what else to do; You want to make money; You want prestige.
   * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career. 
