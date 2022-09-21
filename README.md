@@ -3,6 +3,7 @@
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
 ## General Advice
+* [Optimizing Your Machine Learning PhD Applications for Success](https://www.scottfreitas.com/blog/2022-phd-application-process)
 * [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
   * Bad Reasons: You're good at school; You don't know what else to do; You want to make money; You want prestige.
   * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career. 
