@@ -50,7 +50,6 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [The Serial Mentor](https://serialmentor.com/virtualbooks/)
 * [Perfecting Your Scientific Writing: Tips & Tricks](https://elitemanuscripts.com/2020/04/17/perfecting-your-scientific-writing-tips-tricks/)
 * [Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
-* [Knuth Mathematical Writing Guide](https://tex.loria.fr/typographie/mathwriting.pdf)
 * [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
 * [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
@@ -106,7 +105,6 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Talk to your ombudsperson](https://ombuds.oregonstate.edu/what-ombuds)
 * [Ask the internet](https://academia.stackexchange.com/)
-* [Manage your mental health](https://www.phdstudies.com/article/managing-your-mental-health-as-a-phd-student/)
 * [General advice](https://inomics.com/advice/10-biggest-struggles-of-phd-students-610514)
 
 ## Academics Blogging about Academia
