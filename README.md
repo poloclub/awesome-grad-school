@@ -11,7 +11,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
   * Bad Reasons: You're good at school; You don't know what else to do; You want to make money; You want prestige.
-  * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career. 
+  * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career.
 * [James Arvanitakis: "How to survive a PhD"](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
 * [Nick Feamster: "Managing your advisor"](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce)
 * [Austin Z. Henley: "Lessons from my PhD"](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
@@ -33,7 +33,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## Internships (as a PhD student)
 
 * [Polo Chau](https://faculty.cc.gatech.edu/~dchau/): [7 Benefits of Internship](https://youtu.be/sapIzA7T9_Y)
-  * "7 Ps of internships": People, Practice, Paper, Patent, Product, Publicity, Payment 
+  * "7 Ps of internships": People, Practice, Paper, Patent, Product, Publicity, Payment
 * [Anne Meyer-Miner: Engaging Employers Early in Grad Student Training](https://www.insidehighered.com/advice/2021/11/29/why-engage-employers-early-grad-student-training-opinion)
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 
@@ -58,6 +58,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [How to Write a Good Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf)
 * [Ten simple Rules for Responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036#sec001)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
+* [Marco Tulio Ribeiro: Writing, part 1 — the process](https://medium.com/@marcotcr/writing-part-1-the-process-6bb92cb522eb)
 
 ## Paper Accepted, Then What?
 
@@ -71,6 +72,8 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## Research Novelty
 * [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
   *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
+* [Marco Tulio Ribeiro: Coming up with research ideas](https://medium.com/@marcotcr/coming-up-with-research-ideas-3032682e5852)
+* [Marco Tulio Ribeiro: Organizing and evaluating research ideas](https://medium.com/@marcotcr/organizing-and-evaluating-research-ideas-e137637b599e)
 
 ## Conferences
 
