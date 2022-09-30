@@ -92,6 +92,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Fellowship
 * [Five tips for a successful Facebook Fellowship application from the people who review them](https://research.facebook.com/blog/2020/9/five-tips-for-a-successful-facebook-fellowship-application-from-the-people-who-review-them/)
+* [Morgan Klaus Scheuerman: Tips for Applying to PhD Fellowships in HCI / Social Computing](https://morganklauss.medium.com/tips-for-applying-to-phd-fellowships-in-hci-social-computing-5abf5052987d)
+* [CS PhD fellowship list (CMU)](https://www.cs.cmu.edu/~gradfellowships/)
+* [CS PhD fellowship list (GT)](https://ml.gatech.edu/content/fellowship-award-opportunities)
 
 ## Ph.D. Syllabi
 
