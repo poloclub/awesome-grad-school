@@ -51,7 +51,6 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Prof. Stevie Chancellor](http://steviechancellor.com/), University of Minnesota: [How to Write More with Less Stress by Writing Every Day](https://stevie-chancellor.medium.com/how-to-write-more-with-less-stress-by-writing-every-day-20127c9ded66)
 * [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
 * [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
-* [Writing a Scientific Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7523&rep=rep1&type=pdf)
 * [The Serial Mentor](https://serialmentor.com/virtualbooks/)
 * [Perfecting Your Scientific Writing: Tips & Tricks](https://elitemanuscripts.com/2020/04/17/perfecting-your-scientific-writing-tips-tricks/)
 * [Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
