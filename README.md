@@ -2,6 +2,12 @@
 
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
+## Table of contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Applying for PhD
 
 * [Dr. Scott Freitas: Optimizing Your Machine Learning PhD Applications for Success](https://www.scottfreitas.com/blog/2022-phd-application-process)
