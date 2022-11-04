@@ -14,6 +14,6 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v2.1.0
       with:
         commit_message: Apply automatic changes - TOC generated
-        branch: master
+        branch: main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
