@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Contribution Guidelines](#contribution-guidelines)
+  - [Table of Contents](#table-of-contents)
+  - [Adding to this list](#adding-to-this-list)
+  - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Contribution Guidelines
 
 ## Table of Contents
