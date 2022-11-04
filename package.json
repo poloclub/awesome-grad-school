@@ -1,0 +1,6 @@
+{
+  "name": "mynotes",
+  "devDependencies": {
+    "doctoc": "^1.4.0"
+  }
+}

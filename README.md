@@ -2,6 +2,31 @@
 
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
+## Table of contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+- [Applying for PhD](#applying-for-phd)
+- [General Advice](#general-advice)
+- [Doing Research as Undergraduate Students](#doing-research-as-undergraduate-students)
+- [Internships (as a PhD student)](#internships-as-a-phd-student)
+- [Paper Writing](#paper-writing)
+- [Paper Accepted, Then What?](#paper-accepted-then-what)
+- [Handling Paper Rejections](#handling-paper-rejections)
+- [Research Novelty](#research-novelty)
+- [Conferences](#conferences)
+- [Giving Talks](#giving-talks)
+- [Department Seminars and Events](#department-seminars-and-events)
+- [Fellowship](#fellowship)
+- [Ph.D. Syllabi](#phd-syllabi)
+- [Getting Help](#getting-help)
+- [Academics Blogging about Academia](#academics-blogging-about-academia)
+- [Other Grad School Advice Pages and Sites Like Ours](#other-grad-school-advice-pages-and-sites-like-ours)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Applying for PhD
 
 * [Dr. Scott Freitas: Optimizing Your Machine Learning PhD Applications for Success](https://www.scottfreitas.com/blog/2022-phd-application-process)

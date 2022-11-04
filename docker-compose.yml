@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  node:
+    image: node
+    volumes:
+      - type: bind
+        source: "."
+        target: /opt/app
+    working_dir: /opt/app
