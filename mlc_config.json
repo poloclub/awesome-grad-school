@@ -1,3 +1,3 @@
 {
-  "aliveStatusCodes": [403, 200, 429, 206]
+  "aliveStatusCodes": [403, 200, 429, 206, 0]
 }
