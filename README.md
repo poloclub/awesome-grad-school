@@ -2,13 +2,18 @@
 
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
-## General Advice
-* [Scott Freitas: Optimizing Your Machine Learning PhD Applications for Success](https://www.scottfreitas.com/blog/2022-phd-application-process)
+## Applying for PhD
+
+* [Dr. Scott Freitas: Optimizing Your Machine Learning PhD Applications for Success](https://www.scottfreitas.com/blog/2022-phd-application-process)
   * Is an ML PhD Right for Me?
   * Finding the Ideal Advisor
   * Understanding the Application Process
   * Aligning your Post Graduation Objectives
 
+* [Prof. Roman Feiman on how to write statement of purpose (SoP)](https://twitter.com/romanfeiman/status/1585700225280528385?s=46&t=lcI8TkBXEfI53wJjofjw6w)
+
+
+## General Advice
 * [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
   * Bad Reasons: You're good at school; You don't know what else to do; You want to make money; You want prestige.
   * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career.
