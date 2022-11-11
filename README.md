@@ -7,6 +7,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Applying for PhD](#applying-for-phd)
 - [General Advice](#general-advice)
 - [Doing Research as Undergraduate Students](#doing-research-as-undergraduate-students)
