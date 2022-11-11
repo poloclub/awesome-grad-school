@@ -34,9 +34,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * Finding the Ideal Advisor
   * Understanding the Application Process
   * Aligning your Post Graduation Objectives
-
+* [Prof. Boaz Barak: How to write “statements of purpose”](https://let-all.com/assets/slides/How-to-COLT-Boaz.pdf)
+* [Prof. Yisong Yue: How to Write Statements of Purpose for PhD & Fellowship Applications](https://let-all.com/assets/slides/How-to-COLT-Yisong.pdf)
 * [Prof. Roman Feiman on how to write statement of purpose (SoP)](https://twitter.com/romanfeiman/status/1585700225280528385?s=46&t=lcI8TkBXEfI53wJjofjw6w)
-
+* [Prof. Gautam Kamath: How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
 
 ## General Advice
 * [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
