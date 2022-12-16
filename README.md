@@ -10,6 +10,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 - [Applying for PhD](#applying-for-phd)
 - [General Advice](#general-advice)
+- [Post PhD Advice](#post-phd-advice)
 - [Doing Research as Undergraduate Students](#doing-research-as-undergraduate-students)
 - [Internships (as a PhD student)](#internships-as-a-phd-student)
 - [Paper Writing](#paper-writing)
