@@ -58,6 +58,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Lucy A. Taylor: "Twenty things I wish I’d known when I started my PhD"](https://www.nature.com/articles/d41586-018-07332-x)
 * [David A. Patterson: "Your Students Are Your Legacy"](https://cacm.acm.org/magazines/2009/3/21780-your-students-are-your-legacy/fulltext)
 
+## Post PhD Advice
+* [Dr. Scott Freitas: Landing Your ML PhD Dream Job](https://www.scottfreitas.com/blog/2022-phd-job-hunt)
+* [Dr. Scott Freitas: Top 60 ML Interview Questions](https://www.scottfreitas.com/blog/2022-ml-job-questions)
+
 ## Doing Research as Undergraduate Students
 * [Omar Shaikh](https://oshaikh.com): [Opinions on Undergrad Computer Science Research](https://oshaikh.com/blog/undergrad-research)
 * [Gatech UG Presentation Resources](https://www.undergradresearch.gatech.edu/presentation-tips)
@@ -123,6 +127,12 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Participating in graduate seminar discussions](https://www.evalefkowitz.com/blog/participating-in-graduate-seminar-discussions)
 
 ## Fellowship
+* [Dr. Scott Freitas: Tips & Tricks to Land a PhD Fellowship](https://www.scottfreitas.com/blog/2022-fellowship-applications)
+	* TL;DR
+	* Understanding the Benefits
+	* Comparing Fellowships
+	* Application Process
+	* Gaining the Edge
 * [Five tips for a successful Facebook Fellowship application from the people who review them](https://research.facebook.com/blog/2020/9/five-tips-for-a-successful-facebook-fellowship-application-from-the-people-who-review-them/)
 * [Morgan Klaus Scheuerman: Tips for Applying to PhD Fellowships in HCI / Social Computing](https://morganklauss.medium.com/tips-for-applying-to-phd-fellowships-in-hci-social-computing-5abf5052987d)
 * [Jazette Johnson: 7 Tips for Applying for the Microsoft Research Ada Lovelace Fellowship](https://medium.com/@jazettej/7-tips-for-applying-for-the-microsoft-research-ada-lovelace-fellowship-d4a5a8910345)
