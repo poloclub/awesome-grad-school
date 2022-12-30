@@ -36,12 +36,21 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * Finding the Ideal Advisor
   * Understanding the Application Process
   * Aligning your Post Graduation Objectives
+  
+### Statement of Purpose
+
 * [Prof. Boaz Barak: How to write “statements of purpose”](https://let-all.com/assets/slides/How-to-COLT-Boaz.pdf)
 * [Prof. Yisong Yue: How to Write Statements of Purpose for PhD & Fellowship Applications](https://let-all.com/assets/slides/How-to-COLT-Yisong.pdf)
 * [Prof. Roman Feiman on how to write statement of purpose (SoP)](https://twitter.com/romanfeiman/status/1585700225280528385?s=46&t=lcI8TkBXEfI53wJjofjw6w)
+
+### Letters of Recommendation
+
 * [Prof. Gautam Kamath: How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
+* [Cornell University: Requesting Letters of Recommendation](https://gradschool.cornell.edu/diversity-inclusion/recruitment-2/prospective-students/requesting-letters-of-recommendation)
+* [Chriselle Sy @ The Grad Cafe](https://blog.thegradcafe.com/how-to-ask-a-professor-for-a-letter-of-recommendation-for-grad-school/)
 
 ## General Advice
+
 * [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
   * Bad Reasons: You're good at school; You don't know what else to do; You want to make money; You want prestige.
   * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career.
@@ -60,10 +69,12 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [David A. Patterson: "Your Students Are Your Legacy"](https://cacm.acm.org/magazines/2009/3/21780-your-students-are-your-legacy/fulltext)
 
 ## Post PhD Advice
+
 * [Dr. Scott Freitas: Landing Your ML PhD Dream Job](https://www.scottfreitas.com/blog/2022-phd-job-hunt)
 * [Dr. Scott Freitas: Top 60 ML Interview Questions](https://www.scottfreitas.com/blog/2022-ml-job-questions)
 
-## Doing Research as Undergraduate Students
+## Doing Research as an Undergraduate Student
+
 * [Omar Shaikh](https://oshaikh.com): [Opinions on Undergrad Computer Science Research](https://oshaikh.com/blog/undergrad-research)
 * [Gatech UG Presentation Resources](https://www.undergradresearch.gatech.edu/presentation-tips)
 
@@ -75,6 +86,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 
 ## Paper Writing
+
 * [Prof. Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Planning paper writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
 * [Prof. Christos Faloutsos](https://www.cs.cmu.edu/~christos/), CMU: [Lessons from 1K rejected research papers](http://www.cs.cmu.edu/~christos/TMP/faloutsos_1KR.pptx)
   *  How to create crown jewel figures (fig 1), pick paper title, tool name, write abstract (start with rhetorical question), think like reviewers (relevance, novelty, technical quality, presentation)
