@@ -9,11 +9,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 
 - [Applying for PhD](#applying-for-phd)
-  - [Statement of Purpose](#statement-of-purpose)
-  - [Letters of Recommendation](#letters-of-recommendation)
 - [General Advice](#general-advice)
 - [Post PhD Advice](#post-phd-advice)
-- [Doing Research as an Undergraduate Student](#doing-research-as-an-undergraduate-student)
+- [Doing Research as Undergraduate Students](#doing-research-as-undergraduate-students)
 - [Internships (as a PhD student)](#internships-as-a-phd-student)
 - [Paper Writing](#paper-writing)
 - [Paper Accepted, Then What?](#paper-accepted-then-what)
@@ -50,6 +48,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Prof. Gautam Kamath: How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
 * [Cornell University: Requesting Letters of Recommendation](https://gradschool.cornell.edu/diversity-inclusion/recruitment-2/prospective-students/requesting-letters-of-recommendation)
 * [Chriselle Sy @ The Grad Cafe](https://blog.thegradcafe.com/how-to-ask-a-professor-for-a-letter-of-recommendation-for-grad-school/)
+* [Prof. Jia-Bin Huang: How do you get a strong letter? 🤔](https://twitter.com/jbhuang0604/status/1522072974068703233?s=61&t=JSKBPkLnzxG6YdQdoiCpoA)
 
 ## General Advice
 
