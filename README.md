@@ -9,9 +9,11 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 
 - [Applying for PhD](#applying-for-phd)
+  - [Statement of Purpose](#statement-of-purpose)
+  - [Letters of Recommendation](#letters-of-recommendation)
 - [General Advice](#general-advice)
 - [Post PhD Advice](#post-phd-advice)
-- [Doing Research as Undergraduate Students](#doing-research-as-undergraduate-students)
+- [Doing Research as an Undergraduate Student](#doing-research-as-an-undergraduate-student)
 - [Internships (as a PhD student)](#internships-as-a-phd-student)
 - [Paper Writing](#paper-writing)
 - [Paper Accepted, Then What?](#paper-accepted-then-what)
