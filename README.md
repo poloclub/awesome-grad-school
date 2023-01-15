@@ -38,7 +38,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * Finding the Ideal Advisor
   * Understanding the Application Process
   * Aligning your Post Graduation Objectives
-  
+
 ### Statement of Purpose
 
 * [Prof. Boaz Barak: How to write “statements of purpose”](https://let-all.com/assets/slides/How-to-COLT-Boaz.pdf)
@@ -119,6 +119,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Aditya Parameswaran: "Coping with Rejection"](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
 * [Niklas Elmqvist: "Dealing with Rejection"](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/)
+* [Robert Kosara: "Dealing with Paper Rejections"](https://eagereyes.org/series/peer-review/dealing-with-paper-rejections)
 
 ## Research Novelty
 * [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
