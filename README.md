@@ -70,6 +70,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
 * [Lucy A. Taylor: "Twenty things I wish I’d known when I started my PhD"](https://www.nature.com/articles/d41586-018-07332-x)
 * David A. Patterson: "Your Students Are Your Legacy" [Public slide version](https://sites.cs.ucsb.edu/~mturk/Patterson-BadCareer.pdf). [Paywalled article version](https://cacm.acm.org/magazines/2009/3/21780-your-students-are-your-legacy/fulltext).
+- [Remzi: "Graduate School: Keys To Success"](https://www.youtube.com/watch?v=fqPSnjewkuA)
 
 ## Post PhD Advice
 
