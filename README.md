@@ -116,6 +116,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Casey Fiesler: what ACM copyright model should I choose?](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
 * [Jay Wang: arXiv submission instruction](https://gist.github.com/xiaohk/ed587934d4fd5c3e4bc501020c9c8bda)
+* [Jay Wang: tips and tricks to make ACM TAPS happy](https://gist.github.com/xiaohk/e4c625c080715f62f3ddeab8e3dccbc2)
 
 ## Handling Paper Rejections
 
