@@ -111,6 +111,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Ten simple Rules for Responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036#sec001)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 * [Marco Tulio Ribeiro: Writing, part 1 — the process](https://medium.com/@marcotcr/writing-part-1-the-process-6bb92cb522eb)
+* [Jia-Bin Huang: How to Write a Good Research Paper](https://www.dropbox.com/s/uqxkm89fbjm2x54/2023_03_13%20CMSC800%20Paper%20Writing.pptx?dl=0)
 
 ## Paper Accepted, Then What?
 
