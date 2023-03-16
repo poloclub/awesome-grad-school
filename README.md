@@ -119,6 +119,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Jay Wang: arXiv submission instruction](https://gist.github.com/xiaohk/ed587934d4fd5c3e4bc501020c9c8bda)
 * [Jay Wang: tips and tricks to make ACM TAPS happy](https://gist.github.com/xiaohk/e4c625c080715f62f3ddeab8e3dccbc2)
 
+## Writing Rebuttals
+* [How we write rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) by Devi Parikh, Dhruv Batra, Stefan Lee
+
 ## Handling Paper Rejections
 
 * [Aditya Parameswaran: "Coping with Rejection"](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
