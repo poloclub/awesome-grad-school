@@ -17,6 +17,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 - [Internships (as a PhD student)](#internships-as-a-phd-student)
 - [Paper Writing](#paper-writing)
 - [Paper Accepted, Then What?](#paper-accepted-then-what)
+- [Writing Rebuttals](#writing-rebuttals)
 - [Handling Paper Rejections](#handling-paper-rejections)
 - [Research Novelty](#research-novelty)
 - [Conferences](#conferences)
