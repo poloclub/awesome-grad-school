@@ -78,6 +78,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Dr. Scott Freitas: Landing Your ML PhD Dream Job](https://www.scottfreitas.com/blog/2022-phd-job-hunt)
 * [Dr. Scott Freitas: Top 60 ML Interview Questions](https://www.scottfreitas.com/blog/2022-ml-job-questions)
+* [Prof. Heng Ji: How to Seek and Secure Funding](http://blender.cs.illinois.edu/Funding_HengJi.pdf)
 
 ## Doing Research as an Undergraduate Student
 
