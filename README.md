@@ -144,6 +144,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## Giving Talks
 
 * [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
+* [Jeannette M. Wing: Tips on the Interview Process](https://www.cs.cmu.edu/afs/cs/usr/wing/www/talks/tips.pdf)
 
 ## Department Seminars and Events
 
