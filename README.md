@@ -136,6 +136,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Marco Tulio Ribeiro: Coming up with research ideas](https://medium.com/@marcotcr/coming-up-with-research-ideas-3032682e5852)
 * [Marco Tulio Ribeiro: Organizing and evaluating research ideas](https://medium.com/@marcotcr/organizing-and-evaluating-research-ideas-e137637b599e)
 
+## Broadneing the Impact and Visibilty of Your Research
+* [Polo Chau: Should PhD Students Have Websites?] (https://medium.com/polo-club-of-data-science/should-phd-students-have-websites-8bfc8020985a) Yes, for multiple benefits. 1: craft professional brand. 2:
+enhance visibility. 3: facilitate sharing. 4: broaden audience.
+
 ## Conferences
 
 * [7 reasons why every PhD student should attend academic conferences; Alessandra Bassey](https://authorservices.taylorandfrancis.com/phd-conferences/)
