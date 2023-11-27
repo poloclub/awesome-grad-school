@@ -130,7 +130,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Aditya Parameswaran: "Coping with Rejection"](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
 * [Niklas Elmqvist: "Dealing with Rejection"](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/)
-* [Robert Kosara: "Dealing with Paper Rejections"](https://eagereyes.org/series/peer-review/dealing-with-paper-rejections)
+* [Robert Kosara: "Dealing with Paper Rejections"](https://eagereyes.org/blog/2016/dealing-with-paper-rejections#reviewing-in-visualization-and-hci)
 
 ## Research Novelty
 * [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
