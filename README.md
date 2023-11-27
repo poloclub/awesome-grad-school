@@ -124,6 +124,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## Writing Rebuttals
 * [How we write rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) by Devi Parikh, Dhruv Batra, Stefan Lee
 * [How to ML Rebuttal – A Brief Guide](https://docs.google.com/document/d/1cdEypaZXnJ10IckV49iBXEl27gCFnwEhQfLr680Fv18/edit) by Tim Rocktäschel and Jakob Foerster
+* [Jay Wang: How to mark up paper revisions with LaTeX?](https://gist.github.com/xiaohk/9359e299534bd8ddeeb94ee497781311)
 
 ## Handling Paper Rejections
 
