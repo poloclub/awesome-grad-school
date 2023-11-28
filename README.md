@@ -118,13 +118,13 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## Paper Accepted, Then What?
 
 * [Casey Fiesler: what ACM copyright model should I choose?](https://caseyfiesler.com/2014/10/02/acm-publication-copyright/)
-* [Jay Wang: arXiv submission instruction](https://gist.github.com/xiaohk/ed587934d4fd5c3e4bc501020c9c8bda)
-* [Jay Wang: tips and tricks to make ACM TAPS happy](https://gist.github.com/xiaohk/e4c625c080715f62f3ddeab8e3dccbc2)
+* [Jay Wang: arXiv submission instruction](https://notes.zijie.wang/arxiv-preparation.html)
+* [Jay Wang: tips and tricks to make ACM TAPS happy](https://notes.zijie.wang/how-to-make-taps-happy.html)
 
 ## Writing Rebuttals
 * [How we write rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) by Devi Parikh, Dhruv Batra, Stefan Lee
 * [How to ML Rebuttal – A Brief Guide](https://docs.google.com/document/d/1cdEypaZXnJ10IckV49iBXEl27gCFnwEhQfLr680Fv18/edit) by Tim Rocktäschel and Jakob Foerster
-* [Jay Wang: How to mark up paper revisions with LaTeX?](https://gist.github.com/xiaohk/9359e299534bd8ddeeb94ee497781311)
+* [Jay Wang: How to mark up paper revisions with LaTeX?](https://notes.zijie.wang/paper-revision-markup.html)
 
 ## Handling Paper Rejections
 
