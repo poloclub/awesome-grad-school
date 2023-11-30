@@ -49,6 +49,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ### Letters of Recommendation
 
+* [Prof. Polo Chau: How to help your recommendation letter writers submit on time?](https://medium.com/polo-club-of-data-science/how-to-help-your-recommendation-letter-writers-submit-on-time-2a1623b26a01)
 * [Prof. Gautam Kamath: How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
 * [Cornell University: Requesting Letters of Recommendation](https://gradschool.cornell.edu/diversity-inclusion/recruitment-2/prospective-students/requesting-letters-of-recommendation)
 * [Chriselle Sy @ The Grad Cafe](https://blog.thegradcafe.com/how-to-ask-a-professor-for-a-letter-of-recommendation-for-grad-school/)
