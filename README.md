@@ -57,6 +57,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## General Advice
 
+* [Prof. Jimeng Sun: "Speed is Everything for AI research"](https://realsunlab.medium.com/speed-is-everything-for-ai-research-bbbc8512ac3c)
 * [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
   * Bad Reasons: You're good at school; You don't know what else to do; You want to make money; You want prestige.
   * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career.
@@ -124,6 +125,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Jay Wang: tips and tricks to make ACM TAPS happy](https://notes.zijie.wang/how-to-make-taps-happy.html)
 
 ## Writing Rebuttals
+
 * [How we write rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) by Devi Parikh, Dhruv Batra, Stefan Lee
 * [How to ML Rebuttal – A Brief Guide](https://docs.google.com/document/d/1cdEypaZXnJ10IckV49iBXEl27gCFnwEhQfLr680Fv18/edit) by Tim Rocktäschel and Jakob Foerster
 * [Jay Wang: How to mark up paper revisions with LaTeX?](https://notes.zijie.wang/paper-revision-markup.html)
@@ -135,12 +137,14 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Robert Kosara: "Dealing with Paper Rejections"](https://eagereyes.org/blog/2016/dealing-with-paper-rejections#reviewing-in-visualization-and-hci)
 
 ## Research Novelty
+
 * [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
   *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
 * [Marco Tulio Ribeiro: Coming up with research ideas](https://medium.com/@marcotcr/coming-up-with-research-ideas-3032682e5852)
 * [Marco Tulio Ribeiro: Organizing and evaluating research ideas](https://medium.com/@marcotcr/organizing-and-evaluating-research-ideas-e137637b599e)
 
 ## Broadneing the Impact and Visibilty of Your Research
+
 * [Polo Chau: Should PhD Students Have Websites?] (https://medium.com/polo-club-of-data-science/should-phd-students-have-websites-8bfc8020985a) Yes, for multiple benefits. 1: craft professional brand. 2:
 enhance visibility. 3: facilitate sharing. 4: broaden audience.
 
@@ -162,6 +166,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 * [Participating in graduate seminar discussions](https://www.evalefkowitz.com/blog/participating-in-graduate-seminar-discussions)
 
 ## Fellowship
+
 * [Dr. Scott Freitas: Tips & Tricks to Land a PhD Fellowship](https://www.scottfreitas.com/blog/2022-fellowship-applications)
 	* TL;DR
 	* Understanding the Benefits
