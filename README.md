@@ -55,6 +55,11 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Chriselle Sy @ The Grad Cafe](https://blog.thegradcafe.com/how-to-ask-a-professor-for-a-letter-of-recommendation-for-grad-school/)
 * [Prof. Jia-Bin Huang: How do you get a strong letter? 🤔](https://twitter.com/jbhuang0604/status/1522072974068703233?s=61&t=JSKBPkLnzxG6YdQdoiCpoA)
 
+### Choosing PhD Advisor
+* [Prof. Polo Chau: How to Choose PhD Advisor?](https://medium.com/@polochau/how-to-choose-phd-advisor-1a6682caf28e)
+  * Focus on the people you will interact with every day during your PhD study (e.g., advisor, lab mates). Research is important but without the right people, research won't happen!
+* [Prof. Casey Fiesler: Choosing a PhD Advisor | Questions to Ask to Find a Good PhD Supervisor](https://www.youtube.com/watch?v=z3It3oRYGMU)
+
 ## General Advice
 
 * [Prof. Jimeng Sun: "Speed is Everything for AI research"](https://realsunlab.medium.com/speed-is-everything-for-ai-research-bbbc8512ac3c)
