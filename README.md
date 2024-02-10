@@ -11,6 +11,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 - [Applying for PhD](#applying-for-phd)
   - [Statement of Purpose](#statement-of-purpose)
   - [Letters of Recommendation](#letters-of-recommendation)
+  - [Choosing PhD Advisor](#choosing-phd-advisor)
 - [General Advice](#general-advice)
 - [Post PhD Advice](#post-phd-advice)
 - [Doing Research as an Undergraduate Student](#doing-research-as-an-undergraduate-student)
