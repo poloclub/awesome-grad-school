@@ -50,21 +50,24 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ### Letters of Recommendation
 
-* [Prof. Polo Chau: How to help your recommendation letter writers submit on time?](https://medium.com/polo-club-of-data-science/how-to-help-your-recommendation-letter-writers-submit-on-time-2a1623b26a01)
-* [Prof. Gautam Kamath: How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
+* [Polo Chau: How to help your recommendation letter writers submit on time?](https://medium.com/polo-club-of-data-science/how-to-help-your-recommendation-letter-writers-submit-on-time-2a1623b26a01)
+* [Gautam Kamath: How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
 * [Cornell University: Requesting Letters of Recommendation](https://gradschool.cornell.edu/diversity-inclusion/recruitment-2/prospective-students/requesting-letters-of-recommendation)
 * [Chriselle Sy @ The Grad Cafe](https://blog.thegradcafe.com/how-to-ask-a-professor-for-a-letter-of-recommendation-for-grad-school/)
 * [Prof. Jia-Bin Huang: How do you get a strong letter? 🤔](https://twitter.com/jbhuang0604/status/1522072974068703233?s=61&t=JSKBPkLnzxG6YdQdoiCpoA)
 
 ### Choosing PhD Advisor
-* [Prof. Polo Chau: How to Choose PhD Advisor?](https://medium.com/@polochau/how-to-choose-phd-advisor-1a6682caf28e)
+* [Polo Chau: How to Choose PhD Advisor?](https://medium.com/@polochau/how-to-choose-phd-advisor-1a6682caf28e)
   * Focus on the people you will interact with every day during your PhD study (e.g., advisor, lab mates). Research is important but without the right people, research won't happen!
-* [Prof. Casey Fiesler: Choosing a PhD Advisor | Questions to Ask to Find a Good PhD Supervisor](https://www.youtube.com/watch?v=z3It3oRYGMU)
+* [Casey Fiesler: Choosing a PhD Advisor | Questions to Ask to Find a Good PhD Supervisor](https://www.youtube.com/watch?v=z3It3oRYGMU)
+
+* [Andrew Kuznetsov: Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
+
 
 ## General Advice
 
-* [Prof. Jimeng Sun: "Speed is Everything for AI research"](https://realsunlab.medium.com/speed-is-everything-for-ai-research-bbbc8512ac3c)
-* [Prof. Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
+* [Jimeng Sun: "Speed is Everything for AI research"](https://realsunlab.medium.com/speed-is-everything-for-ai-research-bbbc8512ac3c)
+* [Casey Fiesler: "Should You Get a PhD?"](https://youtu.be/p4QiJNPSdWs)
   * Bad Reasons: You're good at school; You don't know what else to do; You want to make money; You want prestige.
   * Good Reasons: You want to be a professor; You love academic writing; You want to add new knowledge to the world; You want a research career.
 * [James Arvanitakis: "How to survive a PhD"](https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/)
@@ -87,7 +90,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Dr. Scott Freitas: Landing Your ML PhD Dream Job](https://www.scottfreitas.com/blog/2022-phd-job-hunt)
 * [Dr. Scott Freitas: Top 60 ML Interview Questions](https://www.scottfreitas.com/blog/2022-ml-job-questions)
-* [Prof. Heng Ji: How to Seek and Secure Funding](http://blender.cs.illinois.edu/Funding_HengJi.pdf)
+* [. Heng Ji: How to Seek and Secure Funding](http://blender.cs.illinois.edu/Funding_HengJi.pdf)
 
 ## Doing Research as an Undergraduate Student
 
@@ -102,13 +105,13 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Paper Writing
 
-* [Prof. Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Planning paper writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
-* [Prof. Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Shortening papers to fit page limits](https://deviparikh.substack.com/p/shortening-papers-to-fit-page-limits-97601318681d)
-* [Prof. Christos Faloutsos](https://www.cs.cmu.edu/~christos/), CMU: [Lessons from 1K rejected research papers](http://www.cs.cmu.edu/~christos/TMP/faloutsos_1KR.pptx)
+* [Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Planning paper writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
+* [Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Shortening papers to fit page limits](https://deviparikh.substack.com/p/shortening-papers-to-fit-page-limits-97601318681d)
+* [Christos Faloutsos](https://www.cs.cmu.edu/~christos/), CMU: [Lessons from 1K rejected research papers](http://www.cs.cmu.edu/~christos/TMP/faloutsos_1KR.pptx)
   *  How to create crown jewel figures (fig 1), pick paper title, tool name, write abstract (start with rhetorical question), think like reviewers (relevance, novelty, technical quality, presentation)
 * [Maxwell Forbes (UWash): Making a Figure 1](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)
-* [Prof. Diyi Yang](https://faculty.cc.gatech.edu/~dyang888/), Georgia Tech: [Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
-* [Prof. Stevie Chancellor](http://steviechancellor.com/), University of Minnesota: [How to Write More with Less Stress by Writing Every Day](https://stevie-chancellor.medium.com/how-to-write-more-with-less-stress-by-writing-every-day-20127c9ded66)
+* [Diyi Yang](https://faculty.cc.gatech.edu/~dyang888/), Georgia Tech: [Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
+* [Stevie Chancellor](http://steviechancellor.com/), University of Minnesota: [How to Write More with Less Stress by Writing Every Day](https://stevie-chancellor.medium.com/how-to-write-more-with-less-stress-by-writing-every-day-20127c9ded66)
 * [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
 * [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
 * [The Serial Mentor](https://serialmentor.com/virtualbooks/)
