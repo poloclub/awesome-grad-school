@@ -44,9 +44,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ### Statement of Purpose
 
-* [Prof. Boaz Barak: How to write “statements of purpose”](https://let-all.com/assets/slides/How-to-COLT-Boaz.pdf)
-* [Prof. Yisong Yue: How to Write Statements of Purpose for PhD & Fellowship Applications](https://let-all.com/assets/slides/How-to-COLT-Yisong.pdf)
-* [Prof. Roman Feiman on how to write statement of purpose (SoP)](https://twitter.com/romanfeiman/status/1585700225280528385?s=46&t=lcI8TkBXEfI53wJjofjw6w)
+* [Boaz Barak: How to write “statements of purpose”](https://let-all.com/assets/slides/How-to-COLT-Boaz.pdf)
+* [Yisong Yue: How to Write Statements of Purpose for PhD & Fellowship Applications](https://let-all.com/assets/slides/How-to-COLT-Yisong.pdf)
+* [Roman Feiman on how to write statement of purpose (SoP)](https://twitter.com/romanfeiman/status/1585700225280528385?s=46&t=lcI8TkBXEfI53wJjofjw6w)
 
 ### Letters of Recommendation
 
@@ -54,7 +54,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Gautam Kamath: How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
 * [Cornell University: Requesting Letters of Recommendation](https://gradschool.cornell.edu/diversity-inclusion/recruitment-2/prospective-students/requesting-letters-of-recommendation)
 * [Chriselle Sy @ The Grad Cafe](https://blog.thegradcafe.com/how-to-ask-a-professor-for-a-letter-of-recommendation-for-grad-school/)
-* [Prof. Jia-Bin Huang: How do you get a strong letter? 🤔](https://twitter.com/jbhuang0604/status/1522072974068703233?s=61&t=JSKBPkLnzxG6YdQdoiCpoA)
+* [Jia-Bin Huang: How do you get a strong letter? 🤔](https://twitter.com/jbhuang0604/status/1522072974068703233?s=61&t=JSKBPkLnzxG6YdQdoiCpoA)
 
 ### Choosing PhD Advisor
 * [Polo Chau: How to Choose PhD Advisor?](https://medium.com/@polochau/how-to-choose-phd-advisor-1a6682caf28e)
@@ -211,7 +211,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 
 ## Other Grad School Advice Pages and Sites Like Ours
 
-* [Prof. Jason Hong](https://www.cs.cmu.edu/~jasonh/), CMU: [Grad School Advice](http://www.cs.cmu.edu/~jasonh/advice.html)
+* [Jason Hong](https://www.cs.cmu.edu/~jasonh/), CMU: [Grad School Advice](http://www.cs.cmu.edu/~jasonh/advice.html)
 * [The Tao of PhD (UW course)](https://courses.cs.washington.edu/courses/cse590x/22wi/resources/)
 * [Awesome PhD Advice](https://github.com/pliang279/awesome-phd-advice)
-* [Awesome Tips from Prof. Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
+* [Awesome Tips from Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
