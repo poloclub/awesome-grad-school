@@ -192,6 +192,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 
 ## Ph.D. Syllabi
 
+* [Spencer Bryngelson](https://github.com/comp-physics/group-docs)
 * [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)
 * [Mor Naaman](https://s.tech.cornell.edu/phd-syllabus/)
 * [Jon Froehlich](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
