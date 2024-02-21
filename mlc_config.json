@@ -1,8 +1,12 @@
-{   
-  "ignorePatterns": [
-    {
-      "pattern": "https://twitter*"
-    },
-  ],
-  "aliveStatusCodes": [403, 200, 429, 206, 0]
+{
+    "ignorePatterns": [
+        {
+            "pattern": "^https://twitter.com/*"
+        }
+    ],
+    "timeout": "20s",
+    "retryOn429": true,
+    "retryCount": 5,
+    "fallbackRetryDelay": "30s",
+    "aliveStatusCodes": [403, 200, 429, 206, 0]
 }
