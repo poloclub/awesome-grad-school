@@ -1,3 +1,7 @@
-{
+{   
+  "ignorePatterns": [
+    {
+      "pattern": "https://twitter*"
+    },
   "aliveStatusCodes": [403, 200, 429, 206, 0]
 }
