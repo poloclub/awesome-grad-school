@@ -96,7 +96,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Dr. Scott Freitas: Landing Your ML PhD Dream Job](https://www.scottfreitas.com/blog/2022-phd-job-hunt)
 * [Dr. Scott Freitas: Top 60 ML Interview Questions](https://www.scottfreitas.com/blog/2022-ml-job-questions)
-* [. Heng Ji: How to Seek and Secure Funding](http://blender.cs.illinois.edu/Funding_HengJi.pdf)
+* [Heng Ji: How to Seek and Secure Funding](http://blender.cs.illinois.edu/Funding_HengJi.pdf)
 
 ## Doing Research as an Undergraduate Student
 
@@ -108,6 +108,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * "7 Ps of internships": People, Practice, Paper, Patent, Product, Publicity, Payment
 * [Anne Meyer-Miner: Engaging Employers Early in Grad Student Training](https://www.insidehighered.com/advice/2021/11/29/why-engage-employers-early-grad-student-training-opinion)
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
+* [Yong Zheng-Xin: AI Research Internship Search as a CS PhD Student](https://yongzx.github.io)
 
 ## Paper Writing
 
