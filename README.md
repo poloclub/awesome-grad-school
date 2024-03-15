@@ -2,11 +2,6 @@
 
 Advice and guidebook for thriving and surviving Ph.D. and graduate school. But first, [what is grad. school?](https://matt.might.net/articles/phd-school-in-pictures/)
 
-### Authors/curators
-
-* [Spencer Bryngelson](https://github.com/sbryngelson)
-* [Jay Wang](https://github.com/xiaohk)
-* [Polo Chau](https://github.com/polochau)
 
 ## Table of contents
 
