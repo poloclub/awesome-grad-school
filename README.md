@@ -158,7 +158,8 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Broadneing the Impact and Visibilty of Your Research
 
-* [Polo Chau: Should PhD Students Have Websites?] (https://medium.com/polo-club-of-data-science/should-phd-students-have-websites-8bfc8020985a) Yes, for multiple benefits. 1: craft professional brand. 2:
+* [Polo Chau: Should PhD Students Have Websites?](https://medium.com/polo-club-of-data-science/should-phd-students-have-websites-8bfc8020985a)
+  * Yes, for multiple benefits. 1: craft professional brand. 2:
 enhance visibility. 3: facilitate sharing. 4: broaden audience.
 
 ## Conferences
