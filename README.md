@@ -59,6 +59,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Jia-Bin Huang: How do you get a strong letter? 🤔](https://twitter.com/jbhuang0604/status/1522072974068703233?s=61&t=JSKBPkLnzxG6YdQdoiCpoA)
 
 ### Choosing PhD Advisor
+
 * [Polo Chau: How to Choose PhD Advisor?](https://medium.com/@polochau/how-to-choose-phd-advisor-1a6682caf28e)
   * Focus on the people you will interact with every day during your PhD study (e.g., advisor, lab mates). Research is important but without the right people, research won't happen!
 * [Casey Fiesler: Choosing a PhD Advisor | Questions to Ask to Find a Good PhD Supervisor](https://www.youtube.com/watch?v=z3It3oRYGMU)
@@ -88,6 +89,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * (1) Show initiative, for fortune favors the bold. (2) Sink or swim. (3) Educate your professor
 - [Remzi: "Graduate School: Keys To Success"](https://www.youtube.com/watch?v=fqPSnjewkuA)
 - [Sophia Sun: "How to graduate your PhD when you have no hope"](https://huiwenn.github.io/feynman)
+- [Fei-Fei Li: "De-Mystifying Good Research and Good Papers"](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 
 ## Post PhD Advice
 
