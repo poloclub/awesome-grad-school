@@ -86,6 +86,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * David A. Patterson: "Your Students Are Your Legacy" [Public slide version](https://sites.cs.ucsb.edu/~mturk/Patterson-BadCareer.pdf). [ACM version, may be paywalled](https://dl.acm.org/doi/pdf/10.1145/1467247.1467259)
   * (1) Show initiative, for fortune favors the bold. (2) Sink or swim. (3) Educate your professor
 - [Remzi: "Graduate School: Keys To Success"](https://www.youtube.com/watch?v=fqPSnjewkuA)
+- [Sophia Sun: "How to graduate your PhD when you have no hope"](https://huiwenn.github.io/feynman)
 
 ## Post PhD Advice
 
