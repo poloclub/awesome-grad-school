@@ -171,6 +171,10 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 * [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
 * [Jeannette M. Wing: Tips on the Interview Process](https://www.cs.cmu.edu/afs/cs/usr/wing/www/talks/tips.pdf)
 
+## Presenting Posters
+
+* [Jay Wang: Print Academic Posters on Foldable Fabric](https://notes.zijie.wang/print-fabric-poster.html)
+
 ## Department Seminars and Events
 
 * [Why seminars are important to the graduate experience](https://daniels.du.edu/blog/why-seminars-and-workshops-are-important-to-the-graduate-experience/)
