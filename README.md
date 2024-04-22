@@ -170,7 +170,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 * [The Great Benefits of Attending Academic Conferences; Miguel Otero-Iglesias](https://www.uaces.org/resources/articles/great-benefits-attending-academic-conferences)
 * Navigating your first academic conference; Joshua C. Palmer (<!-- https://www.apa.org/science/about/psa/2016/10/academic-conference -->URL currently not accessible)
 
-## Giving Talks
+## Giving Job Talks
 
 * [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
 * [Jeannette M. Wing: Tips on the Interview Process](https://www.cs.cmu.edu/afs/cs/usr/wing/www/talks/tips.pdf)
