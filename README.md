@@ -24,7 +24,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 - [Research Novelty](#research-novelty)
 - [Broadneing the Impact and Visibilty of Your Research](#broadneing-the-impact-and-visibilty-of-your-research)
 - [Conferences](#conferences)
-- [Giving Talks](#giving-talks)
+- [Giving Job Talks](#giving-job-talks)
 - [Presenting Posters](#presenting-posters)
 - [Department Seminars and Events](#department-seminars-and-events)
 - [Fellowship](#fellowship)
