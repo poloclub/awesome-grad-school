@@ -166,6 +166,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 
 ## Conferences
 
+* [Ten Tips for Newcomers at an Academic/Industry Conference](https://docs.google.com/document/d/1gnZgja2vKFlqrM3ypACN_O-oe21La6gfu4gpOzDnLYQ/edit?usp=sharing)
 * [7 reasons why every PhD student should attend academic conferences; Alessandra Bassey](https://authorservices.taylorandfrancis.com/phd-conferences/)
 * [The Great Benefits of Attending Academic Conferences; Miguel Otero-Iglesias](https://www.uaces.org/resources/articles/great-benefits-attending-academic-conferences)
 * Navigating your first academic conference; Joshua C. Palmer (<!-- https://www.apa.org/science/about/psa/2016/10/academic-conference -->URL currently not accessible)
