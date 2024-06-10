@@ -17,6 +17,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 - [Post PhD Advice](#post-phd-advice)
 - [Doing Research as an Undergraduate Student](#doing-research-as-an-undergraduate-student)
 - [Internships (as a PhD student)](#internships-as-a-phd-student)
+- [Meetings](#meetings)
 - [Paper Writing](#paper-writing)
 - [Paper Accepted, Then What?](#paper-accepted-then-what)
 - [Writing Rebuttals](#writing-rebuttals)
