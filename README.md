@@ -109,6 +109,10 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 * [Yong Zheng-Xin: AI Research Internship Search as a CS PhD Student](https://yongzx.github.io)
 
+## Meetings
+
+* [Reflections on Successful Meetings with Undergraduate Researchers](https://medium.com/@jurgens_24580/reflections-on-strategies-for-successful-meetings-with-undergraduate-researchers-ae22306ecd8d)
+
 ## Paper Writing
 
 * [Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Planning paper writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
