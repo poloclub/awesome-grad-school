@@ -14,6 +14,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   - [Letters of Recommendation](#letters-of-recommendation)
   - [Choosing PhD Advisor](#choosing-phd-advisor)
 - [General Advice](#general-advice)
+- [Job Search](#job-search)
 - [Post PhD Advice](#post-phd-advice)
 - [Doing Research as an Undergraduate Student](#doing-research-as-an-undergraduate-student)
 - [Internships (as a PhD student)](#internships-as-a-phd-student)
