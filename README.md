@@ -92,10 +92,14 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 - [Sophia Sun: "How to graduate your PhD when you have no hope"](https://huiwenn.github.io/feynman)
 - [Fei-Fei Li: "De-Mystifying Good Research and Good Papers"](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 
-## Post PhD Advice
+## Job Search
 
+* [Ben Lengerich: Thoughts from my Faculty Application Experience](https://benlengerich.medium.com/thoughts-from-my-faculty-application-experience-38f1a29c715e)
 * [Dr. Scott Freitas: Landing Your ML PhD Dream Job](https://www.scottfreitas.com/blog/2022-phd-job-hunt)
 * [Dr. Scott Freitas: Top 60 ML Interview Questions](https://www.scottfreitas.com/blog/2022-ml-job-questions)
+
+## Post PhD Advice
+
 * [Heng Ji: How to Seek and Secure Funding](http://blender.cs.illinois.edu/Funding_HengJi.pdf)
 
 ## Doing Research as an Undergraduate Student
