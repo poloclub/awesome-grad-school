@@ -93,13 +93,9 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 - [Sophia Sun: "How to graduate your PhD when you have no hope"](https://huiwenn.github.io/feynman)
 - [Fei-Fei Li: "De-Mystifying Good Research and Good Papers"](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 
-## Job Search
+## Job Search (Academia)
 
 * [Ben Lengerich: Thoughts from my Faculty Application Experience](https://benlengerich.medium.com/thoughts-from-my-faculty-application-experience-38f1a29c715e)
-* [MIT Faculty Applicaiton Resources][https://mitcommlab.mit.edu/eecs/commkit/faculty-application/]
-* [CS Faculty Interview Questions](https://csfaculty.github.io/)
-* [Guide to Professorspeak](https://shomir.net/professorspeak.html)
-* [The academic job search for computer scientists in 10 questions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)
 * [Elizabeth Bondi-Kelly: A blog about my experience on the CS faculty job market](https://sites.google.com/view/elizabethbondi/blog?pli=1)
 * [Daniel Seita: My Experience Applying for Faculty Positions](https://docs.google.com/document/d/1lmqOBtka-QA4OhOkzq_VlIjfi1Eb4Si6bBgSn8wUknk/edit#heading=h.wqsoyo20cp6x)
 * [Faculty Application : EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/faculty-application/)
@@ -107,8 +103,20 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Arjun Raj: Thoughts on applying for faculty positions](https://docs.google.com/document/d/1Yew6wb1PMDPanPyJIRspqFvYDcIe7FwwvmKheRy8XHI/edit#heading=h.mmvbe39ryleo)
 * [Workshop on Faculty Hiring Process — YouTube](https://www.youtube.com/playlist?list=PLAc3DH2raxwoljRhz0x8w8cXHSffewgd8)
 * [Faculty job talks: tips from the faculty — MIT EECS](https://www.eecs.mit.edu/career-opportunities-at-eecs/faculty-job-talks-tips-from-the-faculty/)
+* [MIT Faculty Applicaiton Resources](https://mitcommlab.mit.edu/eecs/commkit/faculty-application/)
+* [CS Faculty Interview Questions](https://csfaculty.github.io/)
+* [Guide to Professorspeak](https://shomir.net/professorspeak.html)
+* [The academic job search for computer scientists in 10 questions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)
+
+## Job Search (Industry)
+
 * [Dr. Scott Freitas: Landing Your ML PhD Dream Job](https://www.scottfreitas.com/blog/2022-phd-job-hunt)
 * [Dr. Scott Freitas: Top 60 ML Interview Questions](https://www.scottfreitas.com/blog/2022-ml-job-questions)
+
+## Giving Job Talks
+
+* [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
+* [Jeannette M. Wing: Tips on the Interview Process](https://www.cs.cmu.edu/afs/cs/usr/wing/www/talks/tips.pdf)
 
 ## Post PhD Advice
 
@@ -191,11 +199,6 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 * [7 reasons why every PhD student should attend academic conferences; Alessandra Bassey](https://authorservices.taylorandfrancis.com/phd-conferences/)
 * [The Great Benefits of Attending Academic Conferences; Miguel Otero-Iglesias](https://www.uaces.org/resources/articles/great-benefits-attending-academic-conferences)
 * Navigating your first academic conference; Joshua C. Palmer (<!-- https://www.apa.org/science/about/psa/2016/10/academic-conference -->URL currently not accessible)
-
-## Giving Job Talks
-
-* [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
-* [Jeannette M. Wing: Tips on the Interview Process](https://www.cs.cmu.edu/afs/cs/usr/wing/www/talks/tips.pdf)
 
 ## Presenting Posters
 
