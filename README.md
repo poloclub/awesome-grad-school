@@ -227,7 +227,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 * [CS PhD fellowship list (GT)](https://ml.gatech.edu/content/fellowship-award-opportunities)
 * [Graduate Fellowship list (Johns Hopkins)](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
 
-## Ph.D. Syllabi
+## Ph.D. Syllabi and Research Group Handbooks
 
 * [Spencer Bryngelson](https://github.com/comp-physics/group-docs)
 * [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)
