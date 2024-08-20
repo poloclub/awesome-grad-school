@@ -162,6 +162,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 * [Marco Tulio Ribeiro: Writing, part 1 — the process](https://medium.com/@marcotcr/writing-part-1-the-process-6bb92cb522eb)
 * [Jia-Bin Huang: How to Write a Good Research Paper](https://www.dropbox.com/s/uqxkm89fbjm2x54/2023_03_13%20CMSC800%20Paper%20Writing.pptx?dl=0)
+* [Sasha Rush: How to Write an "okay" research paper](https://www.youtube.com/watch?v=qNlwVGxkG7Q)
 
 ## Paper Accepted, Then What?
 
