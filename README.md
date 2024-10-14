@@ -82,7 +82,6 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * Lead or be led; Topic sentences; Get excited; Unmotivated details; Slides versus speaker; Managers as input/output machines; Daily progress tracking
 * [Andrej Karpathy: "A Survival Guide to a PhD"](http://karpathy.github.io/2016/09/07/phd/)
 * [Maithra Raghu: "Reflections on my (Machine Learning) PhD Journey"](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
-* [Sebastian Ruder: "10 Tips for Research and a PhD"](https://ruder.io/10-tips-for-research-and-a-phd/)
 * [Aijaz A. Shaikh: "5 secrets to surviving (and thriving in) a PhD program"](https://www.elsevier.com/connect/5-secrets-to-surviving-and-progressing-in-a-phd-program)
 * [Jennifer Snodgrass: "7 Hard Truths and a Few Lies"](https://www.insidehighered.com/advice/2021/11/18/truths-about-academic-career-people-often-dont-share-opinion)
 * [Stephen Sterns: "Modest Advice"](https://stearnslab.yale.edu/modest-advice)
@@ -150,7 +149,6 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Stevie Chancellor](http://steviechancellor.com/), University of Minnesota: [How to Write More with Less Stress by Writing Every Day](https://stevie-chancellor.medium.com/how-to-write-more-with-less-stress-by-writing-every-day-20127c9ded66)
 * [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
 * [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
-* [The Serial Mentor](https://serialmentor.com/virtualbooks/)
 * [Perfecting Your Scientific Writing: Tips & Tricks](https://elitemanuscripts.com/2020/04/17/perfecting-your-scientific-writing-tips-tricks/)
 * [Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
 * [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
