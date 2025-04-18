@@ -142,7 +142,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Planning paper writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
 * [Devi Parikh](https://faculty.cc.gatech.edu/~parikh/), Georgia Tech: [Shortening papers to fit page limits](https://deviparikh.substack.com/p/shortening-papers-to-fit-page-limits-97601318681d)
-* [Christos Faloutsos](https://www.cs.cmu.edu/~christos/), CMU: [Lessons from 1K rejected research papers](http://www.cs.cmu.edu/~christos/TMP/faloutsos_1KR.pptx)
+* [Christos Faloutsos](https://www.cs.cmu.edu/~christos/), CMU: [Lessons from 1K rejected research papers](http://www.cs.cmu.edu/~christos/TMP/faloutsos_1KR.pptx) and an [example meta paper resulting from applying the lessons](https://www.cs.cmu.edu/~christos/MetaPaper/faloutsos_MetaPaper_v14.pdf)
   *  How to create crown jewel figures (fig 1), pick paper title, tool name, write abstract (start with rhetorical question), think like reviewers (relevance, novelty, technical quality, presentation)
 * [Maxwell Forbes (UWash): Making a Figure 1](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)
 * [Diyi Yang](https://faculty.cc.gatech.edu/~dyang888/), Georgia Tech: [Paper Clinic for checking paper structure, organiziation, overall impression](https://docs.google.com/document/d/1B3vPV47FA77AOqTc4OEHhmCw7aCArLloK_pffC3H1n0/)
