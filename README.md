@@ -170,9 +170,16 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Writing Rebuttals
 
+### Rebuttals for AI/ML oriented venues
 * [How we write rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) by Devi Parikh, Dhruv Batra, Stefan Lee
 * [How to ML Rebuttal – A Brief Guide](https://docs.google.com/document/d/1cdEypaZXnJ10IckV49iBXEl27gCFnwEhQfLr680Fv18/edit) by Tim Rocktäschel and Jakob Foerster
+
+### Rebuttals for HCI/VIS oriented venues
+* [Jeff’s Rebuttal Guide](https://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html) by Jeff Bigham
+* [Writing Rebuttals](https://niklaselmqvist.medium.com/writing-rebuttals-7f6949eddf6e) by Niklas Elmqvist
 * [My Rebuttal-Writing Process for HCI Venues](https://cs.stanford.edu/~merrie/merrie_rebuttal_tips.pdf) by Meredith Ringel Morris
+
+### Helpful if changes need to be highlighted (to accompany rebuttal)
 * [Jay Wang: How to mark up paper revisions with LaTeX?](https://notes.zijie.wang/paper-revision-markup.html)
 
 ## Handling Paper Rejections
