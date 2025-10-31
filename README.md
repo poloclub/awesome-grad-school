@@ -190,10 +190,13 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Research Novelty
 
-* [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
-  *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
 * [Marco Tulio Ribeiro: Coming up with research ideas](https://medium.com/@marcotcr/coming-up-with-research-ideas-3032682e5852)
 * [Marco Tulio Ribeiro: Organizing and evaluating research ideas](https://medium.com/@marcotcr/organizing-and-evaluating-research-ideas-e137637b599e)
+
+## How to Review Papers
+* [Sauvik Das: A quick guide to reviewing papers quick](https://sauvik-das.medium.com/a-quick-guide-to-reviewing-papers-quick-fe9a493ed228)
+* [Michael Black](http://ps.is.mpg.de/person/black): [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science)
+  *  Reviewers regularly mistake complexity, difficulty, and technicality for novelty. A better way is to replace *novelty* with *beauty*.
 
 ## Broadneing the Impact and Visibilty of Your Research
 
