@@ -128,7 +128,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 ## Internships (as a PhD student)
 
-* [Polo Chau](https://faculty.cc.gatech.edu/~dchau/): [7 Benefits of Internship](https://youtu.be/sapIzA7T9_Y)
+* [Polo Chau](https://faculty.cc.gatech.edu/~dchau/): [7 Benefits of Internship](https://medium.com/polo-club-of-data-science/the-7-ps-of-internships-why-every-cs-phd-student-should-intern-a5ad7122b0be)
   * "7 Ps of internships": People, Practice, Paper, Patent, Product, Publicity, Payment
 * [Anne Meyer-Miner: Engaging Employers Early in Grad Student Training](https://www.insidehighered.com/advice/2021/11/29/why-engage-employers-early-grad-student-training-opinion)
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
