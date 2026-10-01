@@ -92,6 +92,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 - [Remzi: "Graduate School: Keys To Success"](https://www.youtube.com/watch?v=fqPSnjewkuA)
 - [Sophia Sun: "How to graduate your PhD when you have no hope"](https://huiwenn.github.io/feynman)
 - [Fei-Fei Li: "De-Mystifying Good Research and Good Papers"](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
+- [Phillip Isola: "On the Value of Doing a PhD in the Age of AI"](https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html)
 
 ## Job Search (Academia)
 
