@@ -87,11 +87,11 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Stephen Sterns: "Modest Advice"](https://stearnslab.yale.edu/modest-advice)
 * [Terence Tao: "Career Advice"](https://terrytao.wordpress.com/career-advice/)
 * [Lucy A. Taylor: "Twenty things I wish I’d known when I started my PhD"](https://www.nature.com/articles/d41586-018-07332-x)
-* David A. Patterson: "Your Students Are Your Legacy" [Public slide version](https://sites.cs.ucsb.edu/~mturk/Patterson-BadCareer.pdf). [ACM version, may be paywalled](https://dl.acm.org/doi/pdf/10.1145/1467247.1467259)
+* David A. Patterson: "Your Students Are Your Legacy" [Public slide version](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf). [ACM version, may be paywalled](https://dl.acm.org/doi/pdf/10.1145/1467247.1467259)
   * (1) Show initiative, for fortune favors the bold. (2) Sink or swim. (3) Educate your professor
 - [Remzi: "Graduate School: Keys To Success"](https://www.youtube.com/watch?v=fqPSnjewkuA)
 - [Sophia Sun: "How to graduate your PhD when you have no hope"](https://huiwenn.github.io/feynman)
-- [Fei-Fei Li: "De-Mystifying Good Research and Good Papers"](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
+- [Fei-Fei Li: "De-Mystifying Good Research and Good Papers"](https://blkstone.github.io/2015/12/27/stanford-lifeifei/)
 
 ## Job Search (Academia)
 
@@ -154,7 +154,6 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
 * [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
-* [Adam Wierman: Advising](http://users.cms.caltech.edu/~adamw/advising.html)
 * [How to Write a Good Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf)
 * [Ten simple Rules for Responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036#sec001)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
@@ -217,7 +216,6 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 
 ## Department Seminars and Events
 
-* [Why seminars are important to the graduate experience](https://daniels.du.edu/blog/why-seminars-and-workshops-are-important-to-the-graduate-experience/)
 * [Why invited talks are important](https://academia.stackexchange.com/questions/148672/what-s-the-point-of-invited-talks)
 * [Participating in graduate seminar discussions](https://www.evalefkowitz.com/blog/participating-in-graduate-seminar-discussions)
 
@@ -234,7 +232,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 * [Jazette Johnson: 7 Tips for Applying for the Microsoft Research Ada Lovelace Fellowship](https://medium.com/@jazettej/7-tips-for-applying-for-the-microsoft-research-ada-lovelace-fellowship-d4a5a8910345)
   * Ada Lovelace Fellowship was discontinued, but the tips apply to other fellowships
 * [CS PhD fellowship list (CMU)](https://www.cs.cmu.edu/~gradfellowships/)
-* [CS PhD fellowship list (GT)](https://ml.gatech.edu/content/fellowship-award-opportunities)
+* [CS PhD fellowship list (GT)](https://ml.gatech.edu/fellowship-and-award-opportunities)
 * [Graduate Fellowship list (Johns Hopkins)](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
 
 ## Ph.D. Syllabi and Research Group Handbooks
@@ -248,7 +246,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 
 ## Getting Help
 
-* [Talk to your ombudsperson](https://ombuds.oregonstate.edu/what-ombuds)
+* [Talk to your ombudsperson](https://ombuds.oregonstate.edu/faqs)
 * [Ask the internet](https://academia.stackexchange.com/)
 * [General advice](https://inomics.com/advice/10-biggest-struggles-of-phd-students-610514)
 
