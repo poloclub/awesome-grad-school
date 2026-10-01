@@ -246,7 +246,7 @@ enhance visibility. 3: facilitate sharing. 4: broaden audience.
 
 ## Getting Help
 
-* [Talk to your ombudsperson](https://ombuds.oregonstate.edu/faqs)
+* [Talk to your ombudsperson](https://www.gatech.edu/ombuds)
 * [Ask the internet](https://academia.stackexchange.com/)
 * [General advice](https://inomics.com/advice/10-biggest-struggles-of-phd-students-610514)
 
