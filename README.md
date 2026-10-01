@@ -91,7 +91,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
   * (1) Show initiative, for fortune favors the bold. (2) Sink or swim. (3) Educate your professor
 - [Remzi: "Graduate School: Keys To Success"](https://www.youtube.com/watch?v=fqPSnjewkuA)
 - [Sophia Sun: "How to graduate your PhD when you have no hope"](https://huiwenn.github.io/feynman)
-- [Fei-Fei Li: "De-Mystifying Good Research and Good Papers"](https://blkstone.github.io/2015/12/27/stanford-lifeifei/)
+- [Fei-Fei Li: "De-Mystifying Good Research and Good Papers"](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 
 ## Job Search (Academia)
 
