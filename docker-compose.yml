@@ -1,7 +1,6 @@
-version: '3.7'
 services:
   node:
-    image: node
+    image: node:24
     volumes:
       - type: bind
         source: "."
