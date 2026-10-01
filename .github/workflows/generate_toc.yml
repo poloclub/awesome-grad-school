@@ -7,11 +7,11 @@ jobs:
   generateTOC:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
     - name: Generate TOC
       run: make deps generateTOC
     - name: Auto commit
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Apply automatic changes - TOC generated
         branch: main
