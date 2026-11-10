@@ -130,6 +130,8 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 ## Doing Research as an Undergraduate Student
 
 * [Omar Shaikh](https://oshaikh.com): [Opinions on Undergrad Computer Science Research](https://oshaikh.com/blog/undergrad-research)
+* [ProfScout: Find Professors Most Likely to Reply to Research Cold Emails](https://profscout.com)
+  * Ranks professors by reply-fit. Freemium.
 
 ## Internships (as a PhD student)
 
