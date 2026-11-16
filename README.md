@@ -165,6 +165,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Marco Tulio Ribeiro: Writing, part 1 — the process](https://medium.com/@marcotcr/writing-part-1-the-process-6bb92cb522eb)
 * [Jia-Bin Huang: How to Write a Good Research Paper](https://www.dropbox.com/s/uqxkm89fbjm2x54/2023_03_13%20CMSC800%20Paper%20Writing.pptx?dl=0)
 * [Sasha Rush: How to Write an "okay" research paper](https://www.youtube.com/watch?v=qNlwVGxkG7Q)
+* [HumanPen](https://humanpen.net/) - Commercial credit-based SaaS (100 signup credits) for document-level Humanize (DOCX/PPTX/TXT), Translate (12 target languages, PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles, DOCX), and Research Projects ([API](https://api.humanpen.net/v1/docs.md), [Ethics](https://humanpen.net/ethics); no detector guarantees or ghostwriting)
 
 ## Paper Accepted, Then What?
 
