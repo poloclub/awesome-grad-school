@@ -138,6 +138,8 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 * [Anne Meyer-Miner: Engaging Employers Early in Grad Student Training](https://www.insidehighered.com/advice/2021/11/29/why-engage-employers-early-grad-student-training-opinion)
   * "Anne Meyer-Minor describes the mutual benefits that occur when company managers collaborate with academics in the career development of advanced-degree trainees."
 * [Yong Zheng-Xin: AI Research Internship Search as a CS PhD Student](https://yongzx.github.io)
+* [CookLLM: AI PhD Internships 2027](https://github.com/cookllm/AI-PhD-Internships-2027)
+  * "AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links."
 
 ## Meetings
 
